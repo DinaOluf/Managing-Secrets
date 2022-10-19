@@ -1,4 +1,4 @@
-## Usage Instructions
+## Usage Instructions [[EXAMPLE]]
 
 1. Register an account here `https://app.api/register`
 2. Get your key from `https://app.api/account/keys`
